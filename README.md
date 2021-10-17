@@ -1,5 +1,5 @@
-### Hi there👋🏾👋🏾
-I'm an Software Engineer at Halo asset
+### Hi there👋🏾👋🏾, I'm Jesse
+I'm a Software Engineer at Halo asset
 
 My favourite thing to talk about is tech startups and how tech helps solves problems around us.
 
@@ -32,6 +32,6 @@ Thanks for checking out my profile.
 
 (Share your cat pictures with me 😺😺😺)
 
-![Visitor Count](https://profile-counter.glitch.me/{lordpacificsmartly}/count.svg)
+Visitor count
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+![Visitor Count](https://profile-counter.glitch.me/{lordpacificsmartly}/count.svg)
