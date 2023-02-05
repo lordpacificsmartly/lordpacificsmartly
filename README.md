@@ -10,6 +10,7 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 ### My Skill Set 🔭
 * Android
 * Kotlin
+* Jetpack Compose
 * JavaScript
 * React Native
 * Java
