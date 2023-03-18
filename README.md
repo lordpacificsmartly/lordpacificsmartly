@@ -7,6 +7,7 @@ I am currently taking a deep dive into custom views in android and would very mu
 
 After a long hard day of coding, I usually relax by watching movie and reading tech blogs.
 
+
 ### My Skill Set 🔭
 * Android
 * Kotlin
@@ -14,15 +15,12 @@ After a long hard day of coding, I usually relax by watching movie and reading t
 * JavaScript
 * React Native
 * Java
-* PHP
-* Jetpack Libraries
+* Jetpack Architecture
 * Test Driven Development
-* MVVM, MVI & MVP
-* Version Control with Git and Github
+* MVVM
 * Agile Methodologies
+* Git
 * Jira
-* HTML 5
-* CSS 3
 
 ### Socials 📫
 * [Linkedin](https://www.linkedin.com/in/jesseonoyeyan/)
