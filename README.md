@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android Software Engineer
 -------------------------
 
-I'm a Software Engineer at Halo Asset My favourite thing to talk about is tech startups and how tech helps solve problems around us. I am currently exploring the magical world of Canvas in Jetpack Compose to draw and color shapes. After a long hard day of coding, I usually relax by watching movies and reading tech blogs.
+I'm a Software Engineer at Halo Asset. 
+My favourite thing to talk about is tech startups and how tech helps solve problems around us. I am currently exploring the magical world of Canvas in Jetpack Compose to draw and color shapes. After a long hard day of coding, I usually relax by watching movies and reading tech blogs.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [jesseonoyeyan@gmail.com](mailto:jesseonoyeyan@gmail.com)
