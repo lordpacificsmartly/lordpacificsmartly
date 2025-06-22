@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesse Onoyeyan
 ======================================================================================================================================
 
-Android Software Engineer
+Android + Java Backend Developer
 -------------------------
 
-I'm a Software Engineer at Halo Asset. 
-My favourite thing to talk about is tech startups and how tech helps solve problems around us. I am currently exploring the magical world of Canvas in Jetpack Compose to draw and color shapes. After a long hard day of coding, I usually relax by watching movies and reading tech blogs.
+I'm a Software Engineer based in Lagos, Nigeria 🇳🇬. Passionate about building real-world solutions using Android (Kotlin, Jetpack Compose) and now diving deep into Java Backend Development with Spring Boot. I've been combining my Android expertise with backend skills to build full-stack applications — it's a fun ride! 🚀
+My favourite thing to talk about is tech startups and how tech helps solve problems around us. After a long hard day of coding, I usually relax by watching movies and reading tech blogs.
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Lagos, Nigeria🇳🇬.
 * ✉️  You can contact me at [jesseonoyeyan@gmail.com](mailto:jesseonoyeyan@gmail.com)
-* 🧠  I'm learning Jetpack Compose
 
-### My Skill Set 🔭
+### 🛠 Tech Stack & Interests 🔭
 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -29,14 +28,24 @@ My favourite thing to talk about is tech startups and how tech helps solve probl
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-* Android
-* Jetpack Compose
-* React Native
-* Jetpack Architecture
-* Test Driven Development
-* MVVM
-* Agile Methodologies
-* Jira
+### Mobile Dev:
+- Kotlin, Jetpack Compose, MVVM, Clean Architecture
+- Android Jetpack Libraries, Jetpack Navigation
+- Testing (Unit & UI), Material Design
+- React Native
+
+### Backend Dev:
+- Java 17+, Spring Boot, Spring Security, Spring Data JPA
+- PostgreSQL, MongoDB, H2
+- REST APIs, JWT, OAuth2
+
+### Others:
+- Git & GitHub, Firebase, Agile, Jira, Figma
+
+### 📚 What I'm Currently Exploring
+- 📦 Secure API development with Spring Security 6
+- 🎨 Custom Canvas animations in Jetpack Compose
+- 🛠 Building full-stack apps (Android + Spring Boot)
 
 ### Socials 📫
 
