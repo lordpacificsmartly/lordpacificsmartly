@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesse Onoyeyan
 ======================================================================================================================================
 
-Android + Java Backend Developer
+Android & Java Backend Developer
 -------------------------
 
 I'm a Software Engineer based in Lagos, Nigeria 🇳🇬. Passionate about building real-world solutions using Android (Kotlin, Jetpack Compose) and now diving deep into Java Backend Development with Spring Boot. I've been combining my Android expertise with backend skills to build full-stack applications — it's a fun ride! 🚀
